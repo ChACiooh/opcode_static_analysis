@@ -1,0 +1,93 @@
+condition:
+test8.txt의 condition과 더불어,
+threshold의 값을 0.0005로 고정
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(1378, 96), yR_train:(1378,)
+NX_train's shape:(3015, 96), yNtrain:(3015,)
+
+accuracy of ransomware and normal files
+R:0.5573529411764706
+N:0.8377104377104377
+th:0.0005, test_sz:0.33, rand_st:7
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(1378, 96), yR_train:(1378,)
+NX_train's shape:(3015, 96), yNtrain:(3015,)
+
+accuracy of ransomware and normal files
+R:0.38823529411764707
+N:0.8895622895622896
+th:0.0005, test_sz:0.33, rand_st:24
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(1378, 96), yR_train:(1378,)
+NX_train's shape:(3015, 96), yNtrain:(3015,)
+
+accuracy of ransomware and normal files
+R:0.5264705882352941
+N:0.857912457912458
+th:0.0005, test_sz:0.33, rand_st:42
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(1029, 96), yR_train:(1029,)
+NX_train's shape:(2250, 96), yNtrain:(2250,)
+
+accuracy of ransomware and normal files
+R:0.41885325558794945
+N:0.8702222222222222
+th:0.0005, test_sz:0.5, rand_st:7
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(1029, 96), yR_train:(1029,)
+NX_train's shape:(2250, 96), yNtrain:(2250,)
+
+accuracy of ransomware and normal files
+R:0.4703595724003887
+N:0.8635555555555555
+th:0.0005, test_sz:0.5, rand_st:24
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(1029, 96), yR_train:(1029,)
+NX_train's shape:(2250, 96), yNtrain:(2250,)
+
+accuracy of ransomware and normal files
+R:0.4305150631681244
+N:0.8453333333333334
+th:0.0005, test_sz:0.5, rand_st:42
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(699, 96), yR_train:(699,)
+NX_train's shape:(1530, 96), yNtrain:(1530,)
+
+accuracy of ransomware and normal files
+R:0.3318616629874908
+N:0.9188552188552188
+th:0.0005, test_sz:0.66, rand_st:7
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(699, 96), yR_train:(699,)
+NX_train's shape:(1530, 96), yNtrain:(1530,)
+
+accuracy of ransomware and normal files
+R:0.33480500367917587
+N:0.8848484848484849
+th:0.0005, test_sz:0.66, rand_st:24
+
+avl_R_sq number of sequences:6
+avl_N_sq number of sequences:90
+RX_train's shape:(699, 96), yR_train:(699,)
+NX_train's shape:(1530, 96), yNtrain:(1530,)
+
+accuracy of ransomware and normal files
+R:0.40029433406916853
+N:0.8535353535353535
+th:0.0005, test_sz:0.66, rand_st:42

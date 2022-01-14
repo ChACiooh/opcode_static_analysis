@@ -1,0 +1,8 @@
+1~5.txt : 임의의 5개 랜섬웨어 파일들의 시퀀스 빈도수(TF) 결과
+Sampling.ipynb : 차근차근 샘플링하려고 만듦
+instrlist.py : instruction list를 미리 뽑아보기 위해 만든 python 모듈
+output.txt : instruction to codon(Hexa-decimal)
+test.txt : 임의의 1개 랜섬웨어 파일 시퀀스 빈도수 결과
+test[1-5].txt : 샘플링 하여 얻은 분석 결과
+instrlist.txt : instruction list
+

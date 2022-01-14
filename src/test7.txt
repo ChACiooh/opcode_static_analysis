@@ -1,0 +1,31 @@
+condition : tf-idf의 합계만 이용
+
+avl_R_sq number of sequences:67
+avl_N_sq number of sequences:2852
+RX_train's shape:(1378, 2919), yR_train:(1378,)
+NX_train's shape:(3015, 2919), yNtrain:(3015,)
+
+accuracy of ransomware and normal files
+R:0.6073529411764705
+N:0.8962962962962963
+th:0.3, test_sz:0.33, rand_st:42
+
+avl_R_sq number of sequences:67
+avl_N_sq number of sequences:2852
+RX_train's shape:(1029, 2919), yR_train:(1029,)
+NX_train's shape:(2250, 2919), yNtrain:(2250,)
+
+accuracy of ransomware and normal files
+R:0.6064139941690962
+N:0.8835555555555555
+th:0.3, test_sz:0.5, rand_st:42
+
+avl_R_sq number of sequences:67
+avl_N_sq number of sequences:2852
+RX_train's shape:(699, 2919), yR_train:(699,)
+NX_train's shape:(1530, 2919), yNtrain:(1530,)
+
+accuracy of ransomware and normal files
+R:0.6129506990434143
+N:0.8666666666666667
+th:0.3, test_sz:0.66, rand_st:42
